@@ -18,7 +18,7 @@ const ImagePicker = () => {
 
   return (
     <div className="container">
-      <h3 className="title">Please select your favourite Moondogs PFP:</h3>
+      <h3 className="title">Please select your favourite Moondogs Twitter PFP:</h3>
       <div className="images-container">
       <img
   src={process.env.PUBLIC_URL + "/images/image1.png"}
