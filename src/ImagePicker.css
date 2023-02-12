@@ -24,10 +24,12 @@
   height: 150px;
   margin-right: 20px;
   margin-bottom: 20px;
+  filter: grayscale(100%);
 }
 
 .selected-image {
   border: 2px solid rgb(255, 255, 255);
+  filter: none;
 }
 
 .download-link {
